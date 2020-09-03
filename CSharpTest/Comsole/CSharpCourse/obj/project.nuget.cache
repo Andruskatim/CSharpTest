@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6G2a3LK5imv1jOknWQ+MIprTDtA+r+BmqSZXc3GPCP8TNIokdK5BBtPt4223bHONuZAjmr1Ec6GiYdGUFkVXgQ==",
+  "success": true,
+  "projectFilePath": "E:\\CSharpTest\\Comsole\\CSharpCourse\\CSharpCourse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

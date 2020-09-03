@@ -1,0 +1,13 @@
+E:\CSharpTest\Comsole\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.exe
+E:\CSharpTest\Comsole\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.deps.json
+E:\CSharpTest\Comsole\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.runtimeconfig.json
+E:\CSharpTest\Comsole\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.runtimeconfig.dev.json
+E:\CSharpTest\Comsole\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.dll
+E:\CSharpTest\Comsole\CSharpCourse\bin\Debug\netcoreapp3.1\CSharpCourse.pdb
+E:\CSharpTest\Comsole\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.AssemblyInfoInputs.cache
+E:\CSharpTest\Comsole\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.AssemblyInfo.cs
+E:\CSharpTest\Comsole\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.csproj.CoreCompileInputs.cache
+E:\CSharpTest\Comsole\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.dll
+E:\CSharpTest\Comsole\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.pdb
+E:\CSharpTest\Comsole\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.genruntimeconfig.cache
+E:\CSharpTest\Comsole\CSharpCourse\obj\Debug\netcoreapp3.1\CSharpCourse.csprojAssemblyReference.cache
